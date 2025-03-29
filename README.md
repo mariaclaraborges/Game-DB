@@ -32,7 +32,7 @@ Abaixo estão algumas capturas de tela do jogo e do banco de dados Firebase:
 ![print aplicacao 2](https://github.com/user-attachments/assets/1b1ed767-eddc-4091-a983-07fb228687f1)
 
 Link para Acessar o Jogo Online
-Você pode jogar a versão online do projeto acessando o seguinte link: https://www.construct.net/en/free-online-games/mariaclarajogo-75125/play
+Você pode jogar a versão online do projeto acessando o seguinte link: [https://www.construct.net/en/free-online-games/mariaclarajogo-75125/play](https://www.construct.net/en/free-online-games/spidershooter-75147/play)
 
 
 Considerações Finais
