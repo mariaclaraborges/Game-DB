@@ -29,7 +29,7 @@ Abaixo estão algumas capturas de tela do jogo e do banco de dados Firebase:
 
 
 Link para Acessar o Jogo Online
-Você pode jogar a versão online do projeto acessando o seguinte link:
+Você pode jogar a versão online do projeto acessando o seguinte link: https://www.construct.net/en/free-online-games/mariaclarajogo-75125/play
 
 
 Considerações Finais
